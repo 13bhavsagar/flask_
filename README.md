@@ -1,1 +1,2 @@
-# flask_
+# flask
+Flask is a lightweight and powerful Python web framework designed for building web applications and RESTful APIs. This project leverages Flask’s simplicity and flexibility to create a structured and scalable backend. With features like routing, request handling, session management, and support for extensions such as Flask-SQLAlchemy and Flask-RESTful, it provides a solid foundation for both simple prototypes and production-ready applications. Ideal for rapid development, this Flask-based project is easy to understand, extend, and deploy.
